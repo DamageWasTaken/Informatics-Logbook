@@ -7,10 +7,10 @@ Som en del af vores forløb om at lære Javascript, skulle vi lære P5JS som et 
 
 Her er [mit forslag](https://editor.p5js.org/lucas.steele.sorensen/sketches/vz5G5j2Bp) til hvordan man kan lave en Sierpinski Trekant med Javascript og P5JS.
 
-### Cipher / Kryptering
+### Kryptering | Pjslgaaely 
 En anden del af vores kodnings forløb handlede om kryptering
 Herunder hvordan et cipher fungere, hvilke typer der er, og hvordan man kan bruge det til at kryptere en besked.
-Her er [mit](https://editor.p5js.org/l[[[[cas.steele.sorensen/sketches/VdS2LO8RM) bud på symetrisk kryptering lavet med P5JS.
+Her er [mit](https://editor.p5js.org/lucas.steele.sorensen/sketches/VdS2LO8RM) bud på symetrisk kryptering lavet med P5JS.
 
 Mit bud på asymetrisk kryptering er lavet med C++ og kan findes som et repo på GitHub.
 
